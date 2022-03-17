@@ -1,0 +1,26 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "proyecto probando la herramienta de testing en frontend jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D1360666/tallerJest.git"
+  },
+  "author": "@D1360666",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D1360666/tallerJest/issues"
+  },
+  "homepage": "https://github.com/D1360666/tallerJest#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "scripts":{
+      "test": "jest"
+    }
+  
+}
